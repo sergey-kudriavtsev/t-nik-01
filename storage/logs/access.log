@@ -1,3 +1,0 @@
-127.0.0.1 - - [08/Jul/2015:23:22:56 +0300] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36"
-127.0.0.1 - - [08/Jul/2015:23:22:56 +0300] "GET /favicon.ico HTTP/1.1" 200 - "http://www.t-nuk-shop.local/" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36"
-127.0.0.1 - - [08/Jul/2015:23:23:06 +0300] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.132 Safari/537.36"

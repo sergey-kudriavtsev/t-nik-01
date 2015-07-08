@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - t-nuk-01@www.t-nuk-shop.local" uuid="7df1ccbf-4538-4e62-a875-b73cf979c056">
+      <secret-storage>master_key</secret-storage>
+      <user-name>admin</user-name>
+      <schema-pattern>b14_16361562_t_nik_shop.*</schema-pattern>
+      <default-schemas>b14_16361562_t_nik_shop.*</default-schemas>
+    </data-source>
+  </component>
+</project>
