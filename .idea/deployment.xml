@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="t-nik-01">
+  <component name="PublishConfigData" serverName="ftp.byethost14.com">
     <serverData>
-      <paths name="t-nik-01">
+      <paths name="ftp.byethost14.com">
         <serverdata>
           <mappings>
-            <mapping deploy="\" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
